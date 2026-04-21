@@ -1,16 +1,30 @@
-## Hi there 👋
+# Divandy
 
-<!--
-**diva20-a9ys/diva20-a9ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona interesada en el diseño, la creatividad y la construcción de ideas que puedan transformarse en espacios reales. Me atrae especialmente la arquitectura como forma de expresión, ya que combina arte, técnica y funcionalidad para crear entornos que influyen en la vida de las personas.
 
-Here are some ideas to get you started:
+Me identifico con los colores azul y rojo, que representan equilibrio y energía, dos elementos que busco reflejar tanto en mi aprendizaje como en los proyectos que desarrollo. Actualmente, estoy enfocada en fortalecer mis habilidades y prepararme para estudiar Arquitectura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses
+
+- Arquitectura y diseño de espacios  
+- Creatividad e innovación  
+- Desarrollo de ideas y proyectos personales  
+- Aprendizaje continuo  
+
+## Habilidades técnicas
+
+Tengo conocimientos básicos en:
+
+- HTML  
+- CSS  
+- Git y GitHub  
+
+Me encuentro en constante aprendizaje, buscando mejorar mis habilidades tanto en programación como en diseño.
+
+## Objetivo
+
+Mi meta es formarme como arquitecta y desarrollar proyectos que no solo sean funcionales, sino que también transmitan identidad y generen impacto positivo en las personas.
+
+## Contacto
+
+- Correo electrónico: divandy.ato@sjomaristas.edu.pe
